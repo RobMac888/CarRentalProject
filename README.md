@@ -47,8 +47,7 @@ Project Structure:
 
 * Attached is an outline of the project structure: 
 
-
-![OverviewOfProject](https://user-images.githubusercontent.com/112032858/198878533-edc52dcf-0ddc-402c-99eb-ef255be0635e.png)
+![OverviewOfProject](https://user-images.githubusercontent.com/112032858/198902034-f969042c-9984-478c-a155-0e61c4997e8f.png)
 
 
 
@@ -91,7 +90,13 @@ Using Spring Boot, key points:
 
   
 
-Testing: JUnit is used for testing the API's in source code,checking that the unit of code functions correctly, often using the data classes, which requires using mockito for creating duplicate or dummy objects.
+Testing: JUnit is used for testing the API's in source code,checking that the unit of code functions correctly, often using the data classes, which requires using mockito for creating duplicate or dummy objects.  The JUnt testing was done with the following instructions:
+
+![JUnitTest](https://user-images.githubusercontent.com/112032858/198902044-0f05a0f6-ddcd-4379-acab-12f0fe8ae57a.png)
+
+![JUnit1](https://user-images.githubusercontent.com/112032858/198902050-1c369adb-14dd-4694-9ba5-4d0dd1b749f5.png)
+
+![JUnit2](https://user-images.githubusercontent.com/112032858/198902052-4551746e-aa9a-4a7d-9ee2-7146ba61086e.png)
 
   
 
