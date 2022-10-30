@@ -91,7 +91,7 @@ Using Spring Boot, key points:
 
   
 
-Testing: JUnit is used for testing the API's in source code, often using the data classes, which requires using mockito for creating duplicate or dummy objects.
+Testing: JUnit is used for testing the API's in source code,checking that the unit of code functions correctly, often using the data classes, which requires using mockito for creating duplicate or dummy objects.
 
   
 
