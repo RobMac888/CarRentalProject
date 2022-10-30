@@ -92,6 +92,6 @@ Testing: this was done using mockito-JUnit.
 
   
 
-My learning so far:  time was limited for this project, so I would have liked some more time to expand on the ideas and get some one-to-one advice from the teacher.  I am grateful for the help I received.  I have learned a lot more about grammar errors, instructional/coding errors in java.   Now I know the importance and significance of using data types in java, how to find errors from the consoles output and how to make sure input data of service corresponds to controller and repository. 
+My learning so far:  time was limited for this project, so I would have liked some more time to expand on the ideas and get some further assistance.  I am grateful for the help I received.  I have learned a lot more about grammar errors, instructional/coding errors in java.   Now I know the importance and significance of using data types in java, how to find errors from the consoles output and how to make sure input data of service corresponds to controller and repository.  
 
  
