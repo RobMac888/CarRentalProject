@@ -54,7 +54,7 @@ Project Structure:
 
 Database: 
 
-* An ERD diagram is made for the database table 
+* An ERD diagram is made for the database table.  Primark keys were established (PK), where the PK is a) unique b) never changing, and c) never null.  This meant that the Booking PK is uniquebooking number and Car PK is carnumber. 
 
 * The tables can be linked together through the carnumber primary key. 
 
