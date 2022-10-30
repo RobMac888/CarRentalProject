@@ -88,7 +88,7 @@ Using Spring Boot, key points:
 
   
 
-Testing: this was done using mockito-JUnit. 
+Testing: JUnit is used for testing the API's in source code, often using the data classes, which requires using mockito for creating duplicate or dummy objects.
 
   
 
