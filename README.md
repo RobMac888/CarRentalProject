@@ -4,9 +4,10 @@ CarRental Project by RobMac
 
 This project involves use of project management: GIT, databases: MySQL, programming fundamentals: Java, API development: SpringBoot and automated testing: JUnit/Mockito.  The below and attached details the CarRental System back end-end system, for simplification at this stage it is split into booking and car tables.  It uses Java Spring Boot and it could be linked to front end.  It has various CRUD (Create, Read, Update, Delete) functionalities to maintain the system and keep it updated. It is split into two tables. A table for bookings and a table for vehicles/cars. This system is designed for companies to make it more convenient for them store, update and maintain booking and vehicle data. This README is an overview of the project. 
 
-Features: 
 
-Booking: 
+Key data components: 
+
+1-Booking: 
 
 *view uniquebookingnumber 
 
@@ -26,7 +27,7 @@ Booking:
 
  
 
-Cars: add view update delete 
+2-Cars: 
 
 * view carstatus 
 
@@ -46,7 +47,10 @@ Project Structure:
 
 * Attached is an outline of the project structure: 
 
-  
+
+![OverviewOfProject](https://user-images.githubusercontent.com/112032858/198878533-edc52dcf-0ddc-402c-99eb-ef255be0635e.png)
+
+
 
 Database: 
 
@@ -56,9 +60,19 @@ Database:
 
  
 
-Execution using Postman - CRUD: 
+Execution using Postman - CRUD, create, read, update, delete.  Sometimes the Postman may return error messages and it's important to try and understand the meaning, reason for this.  Fro example, the data not existing or using the incorrect instructions combined with the url.  At this level, the main postman methods are: GET(read) POST(add) PUT(update) DELETE(delete).
+
+
+  ![404NotFound](https://user-images.githubusercontent.com/112032858/198879261-56ee9ce1-55bb-4d39-9d1a-ff33c9681958.png)
+  
+  
+  ![Screenshot 2022-10-29 at 22 58 11](https://user-images.githubusercontent.com/112032858/198879296-29034db9-1031-4619-8e03-4eae4cb5114b.png)
 
   
+  
+  ![Screenshot 2022-10-29 at 22 19 14](https://user-images.githubusercontent.com/112032858/198879283-e307a447-77a9-480c-a807-5de67b68a0d4.png)
+
+
 
   
 
@@ -66,7 +80,9 @@ Using Spring Boot, key points:
 
 *It is important to run the application as springboot and check there are no errors at start. 
 
-*Port 8080 should be used  
+*Port 8080 should be used
+![TomCatStart](https://user-images.githubusercontent.com/112032858/198878607-7e2b662a-2989-44d7-801b-7b8d41b47414.png)
+
 
 *Checking the tomcat is running should indicate whether the application is successful to start and run. 
 
