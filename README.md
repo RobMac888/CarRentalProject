@@ -56,6 +56,9 @@ Database:
 
 * An ERD diagram is made for the database table.  Primark keys were established (PK), where the PK is a) unique b) never changing, and c) never null.  This meant that the Booking PK is uniquebooking number and Car PK is carnumber. 
 
+![ERD](https://user-images.githubusercontent.com/112032858/198895052-ab8db91b-38b8-48b5-8e03-3c08ee3ca049.png)
+
+
 * The tables can be linked together through the carnumber primary key. 
 
  
